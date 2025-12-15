@@ -1,0 +1,8 @@
+.box{
+    display: flex;
+    align-items: center;
+    padding: 80px;
+}
+nav a{
+    padding: 100px;
+}
